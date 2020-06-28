@@ -1,0 +1,95 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Custom CSS": true
+  },
+  "workspaceLayout": {
+    "id": "11f021f017abb8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "64081d025d23cf64",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "หมวดที่ 1 ความรู้ทั่วไป.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "fa364d0f35da396e",
+    "type": "split",
+    "children": [
+      {
+        "id": "943d7512620d83ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10f84a36048a257",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "daa2ff7b7527154d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "df28e39545916347",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e9044dc43e9081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56b72d888def972",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "หมวดที่ 1 ความรู้ทั่วไป.md",
+    "บรรณานุกรม/ประชาชน.md",
+    "บรรณานุกรม/นายกรัฐมนตรี.md",
+    "บรรณานุกรม/ตุลาการ ศาลรัฐธรรมนูญ.md",
+    "บรรณานุกรม/คณะองค์มนตรี.md"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
